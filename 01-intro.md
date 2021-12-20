@@ -41,6 +41,14 @@ A Linha de Pesquisa Sistemas Inteligentes visa ao estudo, desenvolvimento e apli
 * resistência a erros e falhas
 * capacidade de gerar
 
+### Tecnologias de Sistemas Inteligentes:
+* Tecnologias simbólicas 
+* Tecnologias não-simbólicas
+![image](https://user-images.githubusercontent.com/37844708/146837002-7fc6bd4a-e725-4907-9d1b-870d9fb4c548.png)
+
+## Chatbots
+São serviços baseados em regras e, às vezes, em IA. Veja o [Chatbot do Facebook](https://developers.facebook.com/docs/messenger-platform/) e o do [Google](https://cloud.google.com/dialogflow/es/docs/integrations/dialogflow-messenger)
+
 
 
 
