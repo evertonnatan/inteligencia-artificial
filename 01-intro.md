@@ -42,8 +42,7 @@ A Linha de Pesquisa Sistemas Inteligentes visa ao estudo, desenvolvimento e apli
 * capacidade de gerar
 
 ### Tecnologias de Sistemas Inteligentes:
-* Tecnologias simbólicas 
-* Tecnologias não-simbólicas
+
 ![image](https://user-images.githubusercontent.com/37844708/146837002-7fc6bd4a-e725-4907-9d1b-870d9fb4c548.png)
 
 ## Chatbots
@@ -58,7 +57,8 @@ Russell e Norvig no clássico livro sobre Inteligência Artificial de 1995 obser
 * Raciocínio automatizado para usar o conhecimento armazenado com a finalidade de responder perguntas ou tirar novas conclusões;
 * Aprendizado de máquina para se adaptar a novas circunstâncias, detectar e extrapolar padrões, a fim de atualizar o seu conhecimento armazenado.
 
-
+## Sala Chinesa
+A sala chinesa é um argumento construído por **John Searle** em 1980, um filósofo norte-americano que pretendia contrapor os pesquisadores da área da Inteligência Artificial. A ideia possui certa relação com o Teste de Turing, que objetiva verificar se uma máquina pode ou não ser considerada inteligente. O ponto chave do argumento de Searle é baseado no fato de que os computadores podem entender somente a **sintaxe** mas não a **semântica** das linguagens processadas. 
 
 
 
