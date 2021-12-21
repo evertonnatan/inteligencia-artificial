@@ -50,6 +50,13 @@ A Linha de Pesquisa Sistemas Inteligentes visa ao estudo, desenvolvimento e apli
 São serviços baseados em regras e, às vezes, em IA. Veja o [Chatbot do Facebook](https://developers.facebook.com/docs/messenger-platform/) e o do [Google](https://cloud.google.com/dialogflow/es/docs/integrations/dialogflow-messenger)
 
 
+## Teste de Turing
+Russell e Norvig no clássico livro sobre Inteligência Artificial de 1995 observaram que programar um sistema de computador para passar no Teste de Turing é uma tarefa muito difícil. Tal sistema precisaria ter pelo menos as seguintes capacidades:
+
+* Processamento de linguagem natural para se comunicar com o usuário;
+* Representação de conhecimento para armazenar o que sabe ou aprende;
+* Raciocínio automatizado para usar o conhecimento armazenado com a finalidade de responder perguntas ou tirar novas conclusões;
+* Aprendizado de máquina para se adaptar a novas circunstâncias, detectar e extrapolar padrões, a fim de atualizar o seu conhecimento armazenado.
 
 
 
