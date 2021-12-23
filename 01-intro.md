@@ -66,6 +66,18 @@ São entidades autônomas, dotadas de uma base de conhecimento e capazes de inte
 ![image](https://user-images.githubusercontent.com/37844708/147291159-a62bbc39-17a5-4b7c-92be-4bda8b9e7c72.png)
 
 
+### Tipos de agentes inteligentes:
+* agentes reativos simples (aspirador de pó)
+* agentes reativos baseados em modelos
+* agentes baseados em objetivos
+* agentes baseados na utilidade
+* agentes com aprendizagem
+    * crítico
+    * elemento de aprendizagem
+    * elemento de desempenho
+    * gerador de problemas
+
+
 
 
 
