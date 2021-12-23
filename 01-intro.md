@@ -60,6 +60,11 @@ Russell e Norvig no clássico livro sobre Inteligência Artificial de 1995 obser
 ## Sala Chinesa
 A sala chinesa é um argumento construído por **John Searle** em 1980, um filósofo norte-americano que pretendia contrapor os pesquisadores da área da Inteligência Artificial. A ideia possui certa relação com o Teste de Turing, que objetiva verificar se uma máquina pode ou não ser considerada inteligente. O ponto chave do argumento de Searle é baseado no fato de que os computadores podem entender somente a **sintaxe** mas não a **semântica** das linguagens processadas. 
 
+## Agentes Inteligentes
+São entidades autônomas, dotadas de uma base de conhecimento e capazes de interagir com o meio em que estão, tomando, assim, decisões que irão auxiliar ou até mesmo substituir o trabalho de um humano.Pode ser um software desenvolvido para automatizar e executar uma tarefa em uma rede para o usuário. Possui 3 características principais: inteligência, interatividade e autonomia.
+
+![image](https://user-images.githubusercontent.com/37844708/147291159-a62bbc39-17a5-4b7c-92be-4bda8b9e7c72.png)
+
 
 
 
