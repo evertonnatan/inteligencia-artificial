@@ -79,7 +79,14 @@ São entidades autônomas, dotadas de uma base de conhecimento e capazes de inte
     * gerador de problemas
 * agentes de resolução de problemas
 
+## Componentes de um problema:
+* estado inicial (espaço de estados do problema)
+* ações (espaço de estados do problema)
+* modelo de transição (espaço de estados do problema)
+* teste de objetivo
+* custo do caminho
 
+ 
 
 
 
