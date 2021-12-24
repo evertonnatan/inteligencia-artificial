@@ -86,6 +86,14 @@ São entidades autônomas, dotadas de uma base de conhecimento e capazes de inte
 * teste de objetivo
 * custo do caminho
 
+### Problema do caxeiro viajante
+O Problema do [Caixeiro Viajante](https://pt.wikipedia.org/wiki/Problema_do_caixeiro-viajante) (PCV) é um problema que tenta determinar a menor rota para percorrer uma série de cidades (visitando uma única vez cada uma delas), retornando à cidade de origem. Ele é um problema de otimização [NP-difícil](https://pt.wikipedia.org/wiki/NP-dif%C3%ADcil) inspirado na necessidade dos vendedores em realizar entregas em diversos locais (as cidades) percorrendo o menor caminho possível, reduzindo o tempo necessário para a viagem e os possíveis custos com transporte e combustível.
+
+
+
+
+
+
  
 
 
