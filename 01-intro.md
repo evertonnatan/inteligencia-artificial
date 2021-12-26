@@ -101,6 +101,13 @@ O Problema do [Caixeiro Viajante](https://pt.wikipedia.org/wiki/Problema_do_caix
 1. Busca gulosa de melhor escolha (Greedy Best-First Search)
 2. Busca A* (A* Search)
 
+### Busca de subida de encosta (Hill Climbing)
+Como o próprio nome indica, o algoritmo avalia e escolhe os melhores estados a partir da expansão do estado atual, utilizando uma função heurística. Russell e Norvig (2004,
+p.111) assim explicam: _“O algoritmo termina quando alcança um ‘pico’ em que nenhum vizinho tem valor mais alto”_. No entanto, o algoritmo pode ficar preso em máximos locais.A esse respeito, Luger (2013, p.106) afirma: _“Se elas alcançarem um estado que tenha uma avaliação melhor que qualquer um dos filhos, o algoritmo fracassa”_.Para contornar esse
+problema, foram propostas variações do algoritmo utilizando reinicio estocástico.
+
+### Têmpera Simulada
+Têmpera simulada (simulated annealing)- Consiste em uma metáfora com atividades metalúrgicas, o algoritmo que usa a têmpera simulada, em vez de escolher o melhor estado no caso da subida de encosta, executa uma escolha estocástica (aleatória).Tal algoritmo sempre aceitará o próximo estado se for este o melhor. Caso não se trate do melhor estado, haverá uma probabilidade de ser aceito ou não. Essa probabilidade tende a diminuir de modo exponencial durante a execução do algoritmo, monitorada por uma variável que simula a temperatura _T_ do sistema. Desse modo, podem ser escolhidos movimentos ruins, porém essa possibilidade diminui ao longo das iterações. A vantagem de tal procedimento da têmpera simulada é evitar que o algoritmo fique preso em mínimos locais'. No caso de _T_ diminuir a uma velocidade adequada, _“o algoritmo encontrará um valor ótimo global com probabilidade próxima de 1”_ (Russell; Norvig, 2004, p.114).
 
 
 
