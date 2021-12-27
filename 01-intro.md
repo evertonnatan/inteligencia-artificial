@@ -112,7 +112,17 @@ Têmpera simulada (simulated annealing)- Consiste em uma metáfora com atividade
 ### Busca em feixe local (local beam search)
 Russell e Norvig (2004) descrevem também o algoritmo de busca emfeixe local. Nesse caso, utiliza-se o paralelismo para fazer com que vários estados, em vez de um só, sejam expandidos durante a execução do algoritmo. Caso algum desses estados atinja o objetivo, o algoritmo para. Além disso, as diferentes buscas também podem interagir entre si: _“se um estado [k] gerar vários sucessores bons e todos os outros k-1 estados gerarem sucessores ruins [ .] o algoritmo logo abandonará as buscas infrutíferas e deslocará seus recursos para o processo em que estiver sendo realizado maior progresso”_ (Russell; Norvig, 2004, p.114).
 
+ ## Agentes Lógicos
+ São agentes que podem formar representações do mundo, usar um processo de inferência para derivar novas representações sobre o mundo e utilizar essas representações para deduzir o que fazer. 
  
+### Agentes Baseados em conhecimento
+### Lógica e Lógica Proposicional
+### Lógica de Primeira Ordem
+### Sintaxe e Semântica
+### Inferência Proposicional
+### Encadeamento
+### Planejamento Clássico
+### Planejamento Multiagente
 
 
 
