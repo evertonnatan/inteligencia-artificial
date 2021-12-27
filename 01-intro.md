@@ -109,7 +109,8 @@ problema, foram propostas variações do algoritmo utilizando reinicio estocást
 ### Têmpera Simulada
 Têmpera simulada (simulated annealing)- Consiste em uma metáfora com atividades metalúrgicas, o algoritmo que usa a têmpera simulada, em vez de escolher o melhor estado no caso da subida de encosta, executa uma escolha estocástica (aleatória).Tal algoritmo sempre aceitará o próximo estado se for este o melhor. Caso não se trate do melhor estado, haverá uma probabilidade de ser aceito ou não. Essa probabilidade tende a diminuir de modo exponencial durante a execução do algoritmo, monitorada por uma variável que simula a temperatura _T_ do sistema. Desse modo, podem ser escolhidos movimentos ruins, porém essa possibilidade diminui ao longo das iterações. A vantagem de tal procedimento da têmpera simulada é evitar que o algoritmo fique preso em mínimos locais'. No caso de _T_ diminuir a uma velocidade adequada, _“o algoritmo encontrará um valor ótimo global com probabilidade próxima de 1”_ (Russell; Norvig, 2004, p.114).
 
-
+### Busca em feixe local (local beam search)
+Russell e Norvig (2004) descrevem também o algoritmo de busca emfeixe local. Nesse caso, utiliza-se o paralelismo para fazer com que vários estados, em vez de um só, sejam expandidos durante a execução do algoritmo. Caso algum desses estados atinja o objetivo, o algoritmo para. Além disso, as diferentes buscas também podem interagir entre si: _“se um estado [k] gerar vários sucessores bons e todos os outros k-1 estados gerarem sucessores ruins [ .] o algoritmo logo abandonará as buscas infrutíferas e deslocará seus recursos para o processo em que estiver sendo realizado maior progresso”_ (Russell; Norvig, 2004, p.114).
 
  
 
