@@ -116,7 +116,13 @@ Russell e Norvig (2004) descrevem também o algoritmo de busca emfeixe local. Ne
  São agentes que podem formar representações do mundo, usar um processo de inferência para derivar novas representações sobre o mundo e utilizar essas representações para deduzir o que fazer. 
  
 ### Agentes Baseados em conhecimento
+O componente central de um agente baseado em conhecimento é a sua base de conhecimento. A base de conhecimento é formada por um conjunto de **sentenças** expressas por meio de uma linguagem lógica de representação de conhecimento. 
+
+![image](https://user-images.githubusercontent.com/37844708/147594504-e6502817-e303-433e-b69c-86eb4a92983f.png)
+
 ### Lógica e Lógica Proposicional
+Álgebra das proposições, também conhecida por **lógica proposicional**, é um tema cobrado especialmente em concursos públicos e em alguns cursos de graduação, como Ciência e Engenharia da Computação.
+
 ### Lógica de Primeira Ordem
 ### Sintaxe e Semântica
 ### Inferência Proposicional
