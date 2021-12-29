@@ -128,6 +128,13 @@ O componente central de um agente baseado em conhecimento é a sua base de conhe
 ### Inferência Proposicional
 ### Encadeamento
 ### Planejamento Clássico
+Planejamento consiste na tarefa de apresentar uma sequência de ações para alcançar um determinado objetivo. Componentes da linguagem PDDL (Planning Domain Description Language)
+* Objetos: objetos que compõem o problema de planejamento
+* Predicados: propriedades dos objetos - podem ser verdadeiros ou falsos
+* Estado Inicial:  estado do mundo em que o processo de planejamento se inicia
+* Objetivos: predicados que devem ser verdade para concluir o processo de planejamento
+* Ações/Operadores: ações que podem ser executadas e modificam o estado do mundo
+
 ### Planejamento Multiagente
 
 
