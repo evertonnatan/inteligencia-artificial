@@ -4,7 +4,7 @@
 # No Jupyter Notebook anexo, você encontra a utilização do Agente
 
 
-from grid import *
+# from grid import *
 from statistics import mean
 
 import random
