@@ -1,5 +1,12 @@
-# INTELIGÊNCIA ARTIFICIAL
+---
+description: >-
+  Notas, pensamentos, perguntas e ideias extraídas de estudos sobre
+  Inteligências Artificial e Machine Learning.
+coverY: 0
+---
 
-Este repositório é dedicado aos estudos introdutórios de Inteligência Artificial. Seja muito bem vindo(a)!
+# 🤖 Welcome!
 
-![200w](https://user-images.githubusercontent.com/37844708/146819241-dffb7589-a086-423e-9bb0-72728445a0c9.gif)
+## Welcome aboard!
+
+Welcome to the company wiki! Here you'll find everything you need to know about the company.
