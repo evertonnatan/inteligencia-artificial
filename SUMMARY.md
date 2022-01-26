@@ -4,7 +4,7 @@
 
 ## The Company
 
-* [Vision and Values](the-company/vision-and-values.md)
+* [📒 Tópicos de estudo](the-company/topicos-de-estudo.md)
 * [Meet the Team!](the-company/meet-the-team.md)
 
 ## The Formal Stuff
