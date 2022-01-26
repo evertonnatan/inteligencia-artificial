@@ -5,7 +5,6 @@
 ## The Company
 
 * [📒 Tópicos de estudo](the-company/topicos-de-estudo.md)
-* [Meet the Team!](the-company/meet-the-team.md)
 
 ## The Formal Stuff
 
