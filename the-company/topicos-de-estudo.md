@@ -13,3 +13,4 @@ coverY: 0
 {% endhint %}
 
 * Agentes Inteligentes
+* Tomada de Decisão
