@@ -9,4 +9,4 @@
 ## The Formal Stuff
 
 * [🦿 Agentes Inteligentes](the-formal-stuff/agentes-inteligentes.md)
-* [Filing Expenses](the-formal-stuff/filing-expenses.md)
+* [🏴☠ Tomada de Decisão](the-formal-stuff/tomada-de-decisao.md)
