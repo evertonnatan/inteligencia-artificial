@@ -10,3 +10,4 @@
 
 * [🦿 Agentes Inteligentes](the-formal-stuff/agentes-inteligentes.md)
 * [🏴☠ Tomada de Decisão](the-formal-stuff/tomada-de-decisao.md)
+* [💡 Agente de Coleta de Informações](the-formal-stuff/agente-de-coleta-de-informacoes.md)
