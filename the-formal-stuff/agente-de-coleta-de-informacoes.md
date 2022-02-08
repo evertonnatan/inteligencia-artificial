@@ -7,3 +7,7 @@
 * deve levar em conta a importância de cada fragmento de informação em relação ao seu custo
 * deve parar de formular perguntas quando isso for apropriado
 
+#### Algoritmo:
+
+![](../.gitbook/assets/image.png)
+
